@@ -1,0 +1,9 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build output (optional, if you don’t want to push dist/build)
+dist/
+build/
+
+# Ignore portfolio folder
+my-portfolio/
